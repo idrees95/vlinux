@@ -9,11 +9,16 @@ a,
 h2,
 h3 {
     color: white;
+    font-size: 20px;
 }
 
+h3 {
+    font-size: 22px;
+}
 h1 {
     text-align: center;
     text-decoration: underline;
+    font-size: 20px;
 }
 
 article {
@@ -22,6 +27,7 @@ article {
     margin: 8px auto;
     width: 1800px;
     opacity: 0.8;
+    font-size: 20px;
 }
 
 .header {
