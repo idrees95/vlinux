@@ -1,0 +1,6 @@
+1) Server name: Omen
+
+2) To get ip-adress type curl ifconfig.me : 213.102.70.50
+
+3) uname -a : Linux Omen 4.19.0-10-amd64 #1 SMP Debian 4.19.132-1 (2020-07-24) x86_64 GNU/Linux
+
